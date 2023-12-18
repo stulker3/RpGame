@@ -712,6 +712,7 @@ private:
 	}
 
 	Void buttonAttack_Click(Object^ sender, EventArgs^ e) {
+		int a;
 		shieldBar(shield);
 		switch (listBox1->SelectedIndex)
 		{
