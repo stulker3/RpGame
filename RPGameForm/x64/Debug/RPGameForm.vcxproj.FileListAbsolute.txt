@@ -1,0 +1,5 @@
+D:\Project\Project_RpGame\RPGameForm\x64\Debug\RPGameForm.vcxproj.AssemblyReference.cache
+D:\Project\Project_RpGame\RPGameForm\x64\Debug\RPGameForm.MyForm.resources
+D:\Project\Project_RpGame\RPGameForm\x64\Debug\RPGameForm.MyForm1.resources
+D:\Project\Project_RpGame\RPGameForm\x64\Debug\RPGameForm.MyForm2.resources
+D:\Project\Project_RpGame\RPGameForm\x64\Debug\RPGameForm.vcxproj.GenerateResource.cache
