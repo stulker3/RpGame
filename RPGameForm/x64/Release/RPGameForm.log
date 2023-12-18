@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+D:\Project\Project_RpGame\RPGameForm\MyForm1.h(591,17): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  MyForm1.cpp
+  MyForm2.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  RPGameForm.vcxproj -> D:\Project\Project_RpGame\x64\Release\RPGameForm.exe
